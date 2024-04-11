@@ -1,0 +1,21 @@
+id_game,id_championship,id_home_team,id_away_team,city_game,stadium_game
+1,1,1,3,Barcelona,Camp Nou
+2,2,2,2,Madrid,Santaigo Bernabeu
+3,3,4,4,Lyon,Parc Olympique Lyonnais
+4,2,6,4,Bari,Stadio San Nicola
+5,1,3,1,Paris,Stade de France
+6,3,5,7,Rome,Stadio Olimpico
+7,1,2,4,Madrid,Santaigo Bernabeu
+8,2,4,6,Paris,Stade de France
+9,3,4,3,Lyon,Parc Olympique Lyonnais
+10,1,2,5,Madrid,Santaigo Bernabeu
+11,1,3,5,Lyon,Parc Olympique Lyonnais
+12,2,1,4,Barcelona,Camp Nou
+13,3,5,5,Bari,Stadio San Nicola
+14,3,2,6,Madrid,Santaigo Bernabeu
+15,3,5,3,Rome,Stadio Olimpico
+16,2,5,2,Rome,Stadio Olimpico
+17,1,6,2,Bari,Stadio San Nicola
+18,2,1,6,Barcelona,Camp Nou
+19,3,3,7,Lyon,Parc Olympique Lyonnais
+20,1,6,6,Rome,Stadio Olimpico

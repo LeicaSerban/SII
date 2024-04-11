@@ -1,0 +1,74 @@
+<countries>
+	<country>
+	 <countryName>Spain</countryName>
+	 <countryPopulation>47000000</countryPopulation>
+	  <stadiums>
+	   <stadium>
+	    <idStadium>1</idStadium>
+	    <nameStadium>Camp Nou</nameStadium>
+	    <capacity>99354</capacity>
+            <city>Barcelona</city>
+	    </stadium>
+            <stadium>
+	    <idStadium>2</idStadium>
+	    <nameStadium>Santiago Bernabeu</nameStadium>
+	    <capacity>84744</capacity>
+            <city>Madrid</city>
+	    </stadium>
+            <stadium>
+	    <idStadium>3</idStadium>
+	    <nameStadium>Benito Villamarin</nameStadium>
+	    <capacity>60270</capacity>
+            <city>Seville</city>
+	    </stadium>
+	   </stadiums>
+	</country>
+	<country>
+	 <countryName>France</countryName>
+	 <countryPopulation>68000000</countryPopulation>
+	  <stadiums>
+	   <stadium>
+	    <idStadium>4</idStadium>
+	    <nameStadium>Stade de France</nameStadium>
+	    <capacity>81338</capacity>
+            <city>Paris</city>
+	    </stadium>
+            <stadium>
+	    <idStadium>5</idStadium>
+	    <nameStadium>Stade Velodrome</nameStadium>
+	    <capacity>67394</capacity>
+            <city>Marseille</city>
+	    </stadium>
+            <stadium>
+	    <idStadium>6</idStadium>
+	    <nameStadium>Parc Olympique Lyonnais</nameStadium>
+	    <capacity>59186</capacity>
+            <city>Lyon</city>
+	    </stadium>
+	   </stadiums>
+	</country>
+	<country>
+	 <countryName>Italy</countryName>
+	 <countryPopulation>59000000</countryPopulation>
+	  <stadiums>
+	   <stadium>
+	    <idStadium>7</idStadium>
+	    <nameStadium>San Siro</nameStadium>
+	    <capacity>80018</capacity>
+            <city>Milan</city>
+	    </stadium>
+            <stadium>
+	    <idStadium>8</idStadium>
+	    <nameStadium>Stadio Olimpico</nameStadium>
+	    <capacity>70634</capacity>
+            <city>Rome</city>
+	    </stadium>
+            <stadium>
+	    <idStadium>9</idStadium>
+	    <nameStadium>Stadio San Nicola</nameStadium>
+	    <capacity>58270</capacity>
+            <city>Bari</city>
+	    </stadium>
+	   </stadiums>
+	</country>
+</countries>
